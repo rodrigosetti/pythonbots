@@ -1,4 +1,4 @@
 #! /bin/sh
 
-python2.5 main.py -ans -r 10 alan mario rodolfo sakuray elieser
+python2.6 main.py -ans -r 10 ccoria cabello bigodines snitram william
 

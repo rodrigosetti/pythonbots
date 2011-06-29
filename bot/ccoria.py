@@ -3,7 +3,7 @@ from pythonbots.globais import *
 mira = False
 acel = MAX_GIRO * .01
 
-def mario(handler):
+def ccoria(handler):
 	"""
 	Movimentacao: Anda sempre de re bem devagar e com pouco giro
 	Ataque: Mantem sempre o canhao junto a proa, ao detectar efetua um

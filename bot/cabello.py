@@ -3,7 +3,7 @@ from pythonbots.globais import *
 indo = False
 wait = 30
 
-def alan(handler):
+def cabello(handler):
 	"""
 	Movimentacao: Leste-Oeste
 	Scan: gira o canhao no mesmo sentido com angulacao PI/4

@@ -2,7 +2,7 @@ from pythonbots.globais import *
 
 wait = 0
 
-def sakuray(handler):
+def snitram(handler):
 	"""
 	Movimentacao: Bastante movimentacao, com aceleracao e giro e giro do canhao
 	Ataque: Nao altera o o angulo de radar e ao detectar inimigo

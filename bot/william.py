@@ -7,7 +7,7 @@ cont = 10
 wait = 10
 lastVida = .0
 
-def rodolfo(handler):
+def william(handler):
 	"""
 	Movimentacao: parado e girando, e move em direcao ao alvo quando detecta
 	Ataque: Mantem o canhao junto a proa, ao detectar alvo comecao a mover-se

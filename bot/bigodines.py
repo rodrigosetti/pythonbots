@@ -7,7 +7,7 @@ lastVida = 0
 mira = False
 taxa_giro = .1
 
-def elieser(handler):
+def bigodines(handler):
 	"""
 	Movimenacao: constante com angulo de giro aleatorio
 	Ataque: Mantem o canhao sempre em um angulo reto em relacao a proa,
