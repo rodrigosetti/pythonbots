@@ -1,5 +1,4 @@
-Pythonbots
-----------
+# Pythonbots
 
 PythonBots is a programming contest where programmers, or players, write robots
 in python to fight in a virtual arena. Wins the robot who stand alive last, the
