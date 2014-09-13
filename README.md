@@ -32,7 +32,7 @@ Options:
   -s, --sound           Active sound effects
   -t, --text-mode       Text mode(no graphics): faster simulation
   -n, --names           Show bot names
-```console
+```
 
 ### Example
 
